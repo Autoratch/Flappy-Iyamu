@@ -1,0 +1,15 @@
+
+
+
+  SSSSSSSS TTTTTTTT AAAAAAA RRRRRRR   TTTTTTTT
+  SS          TT    AAAAAAA RR    RR     TT
+  SS          TT    AA   AA RR    RR     TT
+  SSSSSSSS    TT    AAAAAAA RRRRRRR      TT
+        SS    TT    AAAAAAA RR   R       TT
+        SS    TT    AA   AA RR   RR      TT
+  SSSSSSSS    TT    AA   AA RR    RR     TT
+
+
+
+
+
